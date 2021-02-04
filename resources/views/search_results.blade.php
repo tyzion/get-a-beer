@@ -56,7 +56,7 @@
 
 @push('scripts')
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC5EZjG7bdVkAABUov-iWHMA7OvUeud3H4"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=your_key"></script>
 
 <script>
 
